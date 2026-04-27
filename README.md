@@ -1,0 +1,1 @@
+將solidwork的slddrw檔裡標註的球號和尺寸抓下來，推薦直接打開並閱讀幫助，需要有裝solidwork 2024以上版本才可使用，可使用test.slddrw來測試。如果需要修改球號資訊，可自行修改resource/BallNo_Table.csv。
