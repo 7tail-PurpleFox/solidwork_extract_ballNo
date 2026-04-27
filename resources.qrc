@@ -1,0 +1,20 @@
+<RCC>
+  <qresource>
+    <file>resource/example_15.PNG</file>
+    <file>resource/example_14.PNG</file>
+    <file>resource/example_13.PNG</file>
+    <file>resource/example_12.PNG</file>
+    <file>resource/example_11.PNG</file>
+    <file>resource/example_10.PNG</file>
+    <file>resource/example_9.PNG</file>
+    <file>resource/example_8.PNG</file>
+    <file>resource/example_7.PNG</file>
+    <file>resource/example_6.PNG</file>
+    <file>resource/example_5.PNG</file>
+    <file>resource/example_1.PNG</file>
+    <file>resource/example_2.PNG</file>
+    <file>resource/example_3.PNG</file>
+    <file>resource/example_4.PNG</file>
+    <file>resource/icon.png</file>
+  </qresource>
+</RCC>

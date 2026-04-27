@@ -1,0 +1,340 @@
+BallNo,Description_1,Description_2,Description_3,Description_4,Characteristic,Measurement_1,Measurement_2,Measurement_3,Measurement_NO,CNC
+1,外側胎座面圓周(∅16圓),Out.Bead seat circumference,(1)-外側胎座面圓周(∅16圓),"外側胎座面圓周(∅16圓)
+Out.Bead seat circumference",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+2,內側胎座面圓周(∅16圓),Inn.Bead seat circumference,(2)-內側胎座面圓周(∅16圓),"內側胎座面圓周(∅16圓)
+Inn.Bead seat circumference",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+3,First harmonic,First harmonic,(3)-First harmonic,"First harmonic
+First harmonic",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+4,Angle harmonic,Angle harmonic,(4)-Angle harmonic,"Angle harmonic
+Angle harmonic",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+5,外側偏擺 (胎座面)  (碟煞側胎唇),Outer Runout,(5)-外側偏擺 (胎座面)  (碟煞側胎唇),"外側偏擺 (胎座面)  (碟煞側胎唇)
+Outer Runout",SC,偏擺儀,Deflection Tester,"偏擺儀
+Deflection Tester",BD001,車床
+6,內側偏擺 (胎座面) (碟煞側胎座面),Inner Runout,(6)-內側偏擺 (胎座面) (碟煞側胎座面),"內側偏擺 (胎座面) (碟煞側胎座面)
+Inner Runout",SC,偏擺儀,Deflection Tester,"偏擺儀
+Deflection Tester",BD001,車床
+7,外側偏擺 (胎唇)  (非碟煞側胎座面),Outer skidness,(7)-外側偏擺 (胎唇)  (非碟煞側胎座面),"外側偏擺 (胎唇)  (非碟煞側胎座面)
+Outer skidness",SC,偏擺儀,Deflection Tester,"偏擺儀
+Deflection Tester",BD001,車床
+8,內側偏擺 (胎唇)  (非碟煞側胎唇),Inner skidness,(8)-內側偏擺 (胎唇)  (非碟煞側胎唇),"內側偏擺 (胎唇)  (非碟煞側胎唇)
+Inner skidness",SC,偏擺儀,Deflection Tester,"偏擺儀
+Deflection Tester",BD001,車床
+9,公稱寬度,Rim width,(9)-公稱寬度,"公稱寬度
+Rim width",SC,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+10,ET值,Offset,(10)-ET值,"ET值
+Offset",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+11,外側胎座面直徑(∅16圓),Outer bead seat diameter,(11)-外側胎座面直徑(∅16圓),"外側胎座面直徑(∅16圓)
+Outer bead seat diameter",SC,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+11A,外側公稱直徑(碟煞側),Outer nominal dia.,(11A)-外側公稱直徑(碟煞側),"外側公稱直徑(碟煞側)
+Outer nominal dia.",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+12,內側胎座面直徑(∅16圓),Inner bead seat diameter,(12)-內側胎座面直徑(∅16圓),"內側胎座面直徑(∅16圓)
+Inner bead seat diameter",SC,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+12A,內側公稱直徑(非碟煞側),Inner nominal dia.,(12A)-內側公稱直徑(非碟煞側),"內側公稱直徑(非碟煞側)
+Inner nominal dia.",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+13,裝胎面厚度(碟煞側),Rim thickness,(13)-裝胎面厚度(碟煞側),"裝胎面厚度(碟煞側)
+Rim thickness",,外徑卡規,Outside Diameter Gauge,"外徑卡規
+Outside Diameter Gauge",BK-003,車床
+14,裝胎面厚度(碟煞側),Rim thickness,(14)-裝胎面厚度(碟煞側),"裝胎面厚度(碟煞側)
+Rim thickness",SC,外徑卡規,Outside Diameter Gauge,"外徑卡規
+Outside Diameter Gauge",BK-003,車床
+15,裝胎面厚度(非碟煞側),Rim thickness,(15)-裝胎面厚度(非碟煞側),"裝胎面厚度(非碟煞側)
+Rim thickness",,外徑卡規,Outside Diameter Gauge,"外徑卡規
+Outside Diameter Gauge",BK-003,車床
+16,裝胎面厚度(非碟煞側),Rim thickness,(16)-裝胎面厚度(非碟煞側),"裝胎面厚度(非碟煞側)
+Rim thickness",,外徑卡規,Outside Diameter Gauge,"外徑卡規
+Outside Diameter Gauge",BK-003,車床
+17,中心孔直徑,Centre bore,(17)-中心孔直徑,"中心孔直徑
+Centre bore",CC,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+18,中心蓋孔直徑,Centre cap dia.,(18)-中心蓋孔直徑,"中心蓋孔直徑
+Centre cap dia.",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+19,盤面厚度,Hub width,(19)-盤面厚度,"盤面厚度
+Hub width",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+20,後距空間,Outset,(20)-後距空間,"後距空間
+Outset",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+21,中心蓋扣點的孔直徑,Centre cap lock dia.,(21)-中心蓋扣點的孔直徑,"中心蓋扣點的孔直徑
+Centre cap lock dia.",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+22,中心蓋座的深度,Centre cap seat height,(22)-中心蓋座的深度,"中心蓋座的深度
+Centre cap seat height",SC,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+23,輪圈寬度(扣除2個∅16圓的寬度),Rim width (-32mm),(23)-輪圈寬度(扣除2個∅16圓的寬度),"輪圈寬度(扣除2個∅16圓的寬度)
+Rim width (-32mm)",SC,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+24,中心孔徑的有效深度,Centre bore depth,(24)-中心孔徑的有效深度,"中心孔徑的有效深度
+Centre bore depth",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+25,外側胎唇厚度(碟煞側),Outer rim wall thickness,(25)-外側胎唇厚度(碟煞側),"外側胎唇厚度(碟煞側)
+Outer rim wall thickness",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+26,內側胎唇厚度(非碟煞側),Inner rim wall thickness,(26)-內側胎唇厚度(非碟煞側),"內側胎唇厚度(非碟煞側)
+Inner rim wall thickness",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+27,花鼓安裝面 至 肋骨頂端 的距離,Distance from contact surface to top spoke,(27)-花鼓安裝面 至 肋骨頂端 的距離,"花鼓安裝面 至 肋骨頂端 的距離
+Distance from contact surface to top spoke",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+28,平坦度,Flatness,(28)-平坦度,"平坦度
+Flatness",SC,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+30,螺絲孔球面假想圓心高度,height of bolt seat,(30)-螺絲孔球面假想圓心高度,"螺絲孔球面假想圓心高度
+height of bolt seat",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,銑床
+31,螺絲孔直徑(或攻牙),Bolt hole dia.,(31)-螺絲孔直徑(或攻牙),"螺絲孔直徑(或攻牙)
+Bolt hole dia.",SC,游標卡尺,Caliper,"游標卡尺
+Caliper",AA-015,銑床
+32,螺絲孔正位度,Bolt seat true position,(32)-螺絲孔正位度,"螺絲孔正位度
+Bolt seat true position",SC,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,銑床
+33,螺絲孔PCD,Bolt hole PCD (Pitch Circle Diameter),(33)-螺絲孔PCD,"螺絲孔PCD
+Bolt hole PCD (Pitch Circle Diameter)",SC,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,銑床
+34,螺絲孔斜面角度/螺絲孔球面直徑,Angle/Radius bolt seat,(34)-螺絲孔斜面角度/螺絲孔球面直徑,"螺絲孔斜面角度/螺絲孔球面直徑
+Angle/Radius bolt seat",SC,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,銑床
+35,氣嘴孔內徑,Valve hole dia.,(35)-氣嘴孔內徑,"氣嘴孔內徑
+Valve hole dia.",SC,游標卡尺,Caliper,"游標卡尺
+Caliper",AA-015,銑床
+36,氣嘴孔厚度,Valve hole wall thickness,(36)-氣嘴孔厚度,"氣嘴孔厚度
+Valve hole wall thickness",SC,外徑卡規,Outside Diameter Gauge,"外徑卡規
+Outside Diameter Gauge",BK-003,銑床
+37,螺絲孔入口直徑,Socket dia.,(37)-螺絲孔入口直徑,"螺絲孔入口直徑
+Socket dia.",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,銑床
+38,氣嘴孔外側直徑(打氣側),Outer recess valve hole,(38)-氣嘴孔外側直徑(打氣側),"氣嘴孔外側直徑(打氣側)
+Outer recess valve hole",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,銑床
+39,肋骨厚度,Spoke thickness,(39)-肋骨厚度,"肋骨厚度
+Spoke thickness",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,銑床
+40,垂直度(安裝面與中心孔),Perpendicularty centre bore,(40)-垂直度(安裝面與中心孔),"垂直度(安裝面與中心孔)
+Perpendicularty centre bore",SC,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+41,動平衡,Unbalancing,(41)-動平衡,"動平衡
+Unbalancing",SC,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+42,刻字(深度),Marks,(42)-刻字(深度),"刻字(深度)
+Marks",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,銑床
+43,螺絲孔安裝面高度,Bolt seat height,(43)-螺絲孔安裝面高度,"螺絲孔安裝面高度
+Bolt seat height",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,銑床
+44,凸峰點圓周(機車圈碟煞側),Circ. outer hump,(44)-凸峰點圓周(機車圈碟煞側),"凸峰點圓周(機車圈碟煞側)
+Circ. outer hump",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+45,凸峰點直徑(機車圈碟煞側),Dia. Outer hump,(45)-凸峰點直徑(機車圈碟煞側),"凸峰點直徑(機車圈碟煞側)
+Dia. Outer hump",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+46,凸峰點圓周(機車圈非碟煞側),Circ. inner hump,(46)-凸峰點圓周(機車圈非碟煞側),"凸峰點圓周(機車圈非碟煞側)
+Circ. inner hump",SC,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+47,凸峰點直徑(機車圈非碟煞側),Dia. Inner hump,(47)-凸峰點直徑(機車圈非碟煞側),"凸峰點直徑(機車圈非碟煞側)
+Dia. Inner hump",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+48,銑床深度,銑床 depth windows,(48)-銑床深度,"銑床深度
+銑床 depth windows",SC,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,銑床
+49,氣嘴孔角度,Valve hole angle,(49)-氣嘴孔角度,"氣嘴孔角度
+Valve hole angle",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,銑床
+51,TPMS wall thickness(胎壓偵測器安裝面厚度),TPMS wall thickness,(51)-TPMS wall thickness(胎壓偵測器安裝面厚度),"TPMS wall thickness(胎壓偵測器安裝面厚度)
+TPMS wall thickness",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+52,氣嘴孔中心 至 輪圈中心 的距離,Radius of valve hole,(52)-氣嘴孔中心 至 輪圈中心 的距離,"氣嘴孔中心 至 輪圈中心 的距離
+Radius of valve hole",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,銑床
+53,氣嘴孔中心的位置,Location of valve hole,(53)-氣嘴孔中心的位置,"氣嘴孔中心的位置
+Location of valve hole",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,銑床
+54,減重孔寬度,Width of lightining pockets,(54)-減重孔寬度,"減重孔寬度
+Width of lightining pockets",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+57,TPMS diameter (胎壓偵測器直徑),TPMS diameter,(57)-TPMS diameter (胎壓偵測器直徑),"TPMS diameter (胎壓偵測器直徑)
+TPMS diameter",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+58,中心孔軸深,maximum depth of wheel axle ,(58)-中心孔軸深,"中心孔軸深
+maximum depth of wheel axle ",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+59,上外徑(碟煞側),Dia. Outer rim,(59)-上外徑(碟煞側),"上外徑(碟煞側)
+Dia. Outer rim",,游標卡尺,Caliper,"游標卡尺
+Caliper",AA-015,車床
+60,下外徑(非碟煞側),external dia,(60)-下外徑(非碟煞側),"下外徑(非碟煞側)
+external dia",,游標卡尺,Caliper,"游標卡尺
+Caliper",AA-015,車床
+61,螺絲孔入口圓的深度,Socket depth,(61)-螺絲孔入口圓的深度,"螺絲孔入口圓的深度
+Socket depth",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+62,O-ring安裝槽的寬度,width of O-ring trench,(62)-O-ring安裝槽的寬度,"O-ring安裝槽的寬度
+width of O-ring trench",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+63,O-ring安裝槽的深度,depth of O-ring trench,(63)-O-ring安裝槽的深度,"O-ring安裝槽的深度
+depth of O-ring trench",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+64,O-ring安裝槽的內徑,inner diameter of O-ring trench,(64)-O-ring安裝槽的內徑,"O-ring安裝槽的內徑
+inner diameter of O-ring trench",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+65,中間裝胎面直徑,diameter of middle rim,(65)-中間裝胎面直徑,"中間裝胎面直徑
+diameter of middle rim",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+70,中心蓋座 至 花鼓安裝面 的距離,Depth of centre cap lock,(70)-中心蓋座 至 花鼓安裝面 的距離,"中心蓋座 至 花鼓安裝面 的距離
+Depth of centre cap lock",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+71,螺絲孔安裝面粗細度,Roughness of bolt seat,(71)-螺絲孔安裝面粗細度,"螺絲孔安裝面粗細度
+Roughness of bolt seat",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+72,花鼓安裝面粗細度,Contact surface roughness,(72)-花鼓安裝面粗細度,"花鼓安裝面粗細度
+Contact surface roughness",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+73,內側胎唇高度,Rim wall heigth,(73)-內側胎唇高度,"內側胎唇高度
+Rim wall heigth",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+74,氣嘴孔外圈直徑(裝胎側),Valve wall dia.,(74)-氣嘴孔外圈直徑(裝胎側),"氣嘴孔外圈直徑(裝胎側)
+Valve wall dia.",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+75,外側凸峰點位置,Position of outer hump,(75)-外側凸峰點位置,"外側凸峰點位置
+Position of outer hump",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+76,內側凸峰點位置,Position of inner hump,(76)-內側凸峰點位置,"內側凸峰點位置
+Position of inner hump",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+77,內側胎座面直徑(加上兩個∅16圓直徑),Bead seat + spehere ref.,(77)-內側胎座面直徑(加上兩個∅16圓直徑),"內側胎座面直徑(加上兩個∅16圓直徑)
+Bead seat + spehere ref.",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+78,花鼓安裝面 至 胎唇 距離,Distance from contact surface to inner rim,(78)-花鼓安裝面 至 胎唇 距離,"花鼓安裝面 至 胎唇 距離
+Distance from contact surface to inner rim",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+79,裝胎面厚度(汽車肋骨交接處)(機車圈中間),Rim thickness on spoke connection,(79)-裝胎面厚度(汽車肋骨交接處)(機車圈中間),"裝胎面厚度(汽車肋骨交接處)(機車圈中間)
+Rim thickness on spoke connection",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+80,氣嘴孔最凹深處壁厚(最薄處),Thickness valve recess,(80)-氣嘴孔最凹深處壁厚(最薄處),"氣嘴孔最凹深處壁厚(最薄處)
+Thickness valve recess",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+81,外側RIM邊緣R角,Radius of outer rim,(81)-外側RIM邊緣R角,"外側RIM邊緣R角
+Radius of outer rim",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+82,外側胎唇高度,Outer rim wall height,(82)-外側胎唇高度,"外側胎唇高度
+Outer rim wall height",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+83,螺絲孔球面假想圓頂端至盤面距離,Distance from the imagined spherical top of the bolt hole to the disc surface,(83)-螺絲孔球面假想圓頂端至盤面距離,"螺絲孔球面假想圓頂端至盤面距離
+Distance from the imagined spherical top of the bolt hole to the disc surface",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+84,減重孔直徑,Lightning pockets dia.,(84)-減重孔直徑,"減重孔直徑
+Lightning pockets dia.",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,銑床
+85,減重孔深度,Depth of lightining pockets,(85)-減重孔深度,"減重孔深度
+Depth of lightining pockets",,游標卡尺,Caliper,"游標卡尺
+Caliper",AA-015,銑床
+86,同心度,Concentricity,(86)-同心度,"同心度
+Concentricity",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+87,總高度,total width,(87)-總高度,"總高度
+total width",SC,游標卡尺,Caliper,"游標卡尺
+Caliper",AA-015,車床
+88,下內徑,Internal dia,(88)-下內徑,"下內徑
+Internal dia",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+89,RIM內部直徑(or機車圈碟煞側),Rim inner dia.,(89)-RIM內部直徑(or機車圈碟煞側),"RIM內部直徑(or機車圈碟煞側)
+Rim inner dia.",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+90,中心蓋扣點的深度,Center cap retention depth,(90)-中心蓋扣點的深度,"中心蓋扣點的深度
+Center cap retention depth",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+91,氣嘴孔外側(打氣側)平面直徑,outer flat dia. of valve hole,(91)-氣嘴孔外側(打氣側)平面直徑,"氣嘴孔外側(打氣側)平面直徑
+outer flat dia. of valve hole",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+92,氣嘴孔內側(裝胎側)平面直徑,inner flat dia. of valve hole,(92)-氣嘴孔內側(裝胎側)平面直徑,"氣嘴孔內側(裝胎側)平面直徑
+inner flat dia. of valve hole",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+93,氣嘴孔外側(打氣側)平面平坦度,outer flatness of valve hole  ,(93)-氣嘴孔外側(打氣側)平面平坦度,"氣嘴孔外側(打氣側)平面平坦度
+outer flatness of valve hole  ",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+94,氣嘴孔內側(裝胎側)平面平坦度,inner flatness of valve hole  ,(94)-氣嘴孔內側(裝胎側)平面平坦度,"氣嘴孔內側(裝胎側)平面平坦度
+inner flatness of valve hole  ",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+95,花鼓安裝面直徑,hub dia.,(95)-花鼓安裝面直徑,"花鼓安裝面直徑
+hub dia.",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+96,散熱孔PCD,cooling hole P.C.D.,(96)-散熱孔PCD,"散熱孔PCD
+cooling hole P.C.D.",SC,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,銑床
+97,散熱孔徑,cooling hole dia.,(97)-散熱孔徑,"散熱孔徑
+cooling hole dia.",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,銑床
+98,減重孔PCD,Lightning pockets P.C.D.,(98)-減重孔PCD,"減重孔PCD
+Lightning pockets P.C.D.",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,銑床
+99,安裝面溝槽直徑(內),Inner mounting groove diameter,(99)-安裝面溝槽直徑(內),"安裝面溝槽直徑(內)
+Inner mounting groove diameter",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+100,安裝面溝槽直徑(外),Outer mounting groove diameter,(100)-安裝面溝槽直徑(外),"安裝面溝槽直徑(外)
+Outer mounting groove diameter",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+101,平行度,Parallelism,(101)-平行度,"平行度
+Parallelism",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+102,盤面安裝孔直徑,Disc mounting hole diameter,(102)-盤面安裝孔直徑,"盤面安裝孔直徑
+Disc mounting hole diameter",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+103,中心培林孔直徑(非碟煞側),Center bearing hole diameter (non-disc brake side),(103)-中心培林孔直徑(非碟煞側),"中心培林孔直徑(非碟煞側)
+Center bearing hole diameter (non-disc brake side)",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+104,中心培林孔深度(非碟煞側),Center bearing hole depth (non-disc brake side),(104)-中心培林孔深度(非碟煞側),"中心培林孔深度(非碟煞側)
+Center bearing hole depth (non-disc brake side)",CC,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+105,中心孔外徑(非碟煞側),Center hole outer diameter (non-disc brake side),(105)-中心孔外徑(非碟煞側),"中心孔外徑(非碟煞側)
+Center hole outer diameter (non-disc brake side)",SC,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+106,中心培林孔直徑(碟煞側),Center bearing hole diameter (disc brake side),(106)-中心培林孔直徑(碟煞側),"中心培林孔直徑(碟煞側)
+Center bearing hole diameter (disc brake side)",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+107,中心培林孔深度(碟煞側),Center bearing hole depth (disc brake side),(107)-中心培林孔深度(碟煞側),"中心培林孔深度(碟煞側)
+Center bearing hole depth (disc brake side)",CC,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+108,中心孔外徑(碟煞側),Center hole outer diameter (disc brake side),(108)-中心孔外徑(碟煞側),"中心孔外徑(碟煞側)
+Center hole outer diameter (disc brake side)",SC,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+109,中心孔最內徑(碟煞側),Innermost diameter of center hole (disc brake side),(109)-中心孔最內徑(碟煞側),"中心孔最內徑(碟煞側)
+Innermost diameter of center hole (disc brake side)",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+110,中心孔最內徑(非碟煞側),Innermost diameter of center hole (non-disc brake side),(110)-中心孔最內徑(非碟煞側),"中心孔最內徑(非碟煞側)
+Innermost diameter of center hole (non-disc brake side)",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+117,花形孔PCD,Lug hole PCD ,(117)-花形孔PCD,"花形孔PCD
+Lug hole PCD ",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,銑床
+118,花形孔直徑,Lug hole diameter,(118)-花形孔直徑,"花形孔直徑
+Lug hole diameter",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,銑床
+119,花形孔深度,Lug hole depth,(119)-花形孔深度,"花形孔深度
+Lug hole depth",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,銑床
+120,內外培林安裝面距離,Distance between inner and outer bearing mounting surfaces,(120)-內外培林安裝面距離,"內外培林安裝面距離
+Distance between inner and outer bearing mounting surfaces",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+121,高低差(碟煞側),Height differential (disc brake side),(121)-高低差(碟煞側),"高低差(碟煞側)
+Height differential (disc brake side)",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+122,高低差(非碟煞側),Height differential (non-disc brake side),(122)-高低差(非碟煞側),"高低差(非碟煞側)
+Height differential (non-disc brake side)",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+123,中心軸壁厚(碟煞側),Central hub wall thickness (disc brake side),(123)-中心軸壁厚(碟煞側),"中心軸壁厚(碟煞側)
+Central hub wall thickness (disc brake side)",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+124,中心軸壁厚(非碟煞側),Central hub wall thickness (non-disc brake side),(124)-中心軸壁厚(非碟煞側),"中心軸壁厚(非碟煞側)
+Central hub wall thickness (non-disc brake side)",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
+125,RIM內部直徑(機車圈非碟煞側),RIM inner diameter (for the non-disc brake side of the wheel),(125)-RIM內部直徑(機車圈非碟煞側),"RIM內部直徑(機車圈非碟煞側)
+RIM inner diameter (for the non-disc brake side of the wheel)",,三次元量床,Coordinate Measuring Machine,"三次元量床
+Coordinate Measuring Machine",AP-001,車床
